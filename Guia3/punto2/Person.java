@@ -1,6 +1,6 @@
 package net.pelozo.punto2;
 
-public class Person {
+abstract public class Person {
 
     protected String dni;
     protected String firstName;
